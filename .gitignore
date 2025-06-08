@@ -1,5 +1,15 @@
-venv/
+# Python
 *.pyc
 __pycache__/
-.DS_Store
+venv/
+
+# Environment files
 .env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+
+# Docker
+*.env
